@@ -1,4 +1,5 @@
 # Opinoin Mining
+
 ## Sentiment Analysis on REal Time Audio
 
 ### Requirements
@@ -16,12 +17,21 @@ pip install SpeechRecognition
 pip install textblob
 ```
 
+
+
 ### Run this program:
 1. Play background audio in mic
 2. Start the program in cmd
+
 ```py
 python app.py
 ```
+or 
+
+```py
+py app.py
+```
+
 3. Check Real time Sentiment 
 - Polarty 
 - Subjectivity

@@ -20,5 +20,4 @@ while(True):
             print("Subjectivity => ",tb.sentiment[1])
         except:
             print('Sorry!! Something went wrong...')        
-    print("Listening... ")
-    
+    print("...")
